@@ -1,4 +1,5 @@
-# science_fiction_dataviz_python
+# What are the most popular themes in Science Fiction literature?
+
 Statistical analysis and graph visualisation of the [Science Fiction Books](http://www.casos.cs.cmu.edu/tools/datasets/internal/index.php) dataset.
 
 I went through this short statistical analysis as part of my Humanities class (_Philosophy of Science Fiction_, taught by Pr. Jonathan Degenève) at Ecole Polytechnique.
